@@ -8,11 +8,6 @@ Senior JavaScript/TypeScript engineer focused on **web scraping at scale** and h
 - Backend Node.js / TypeScript with NestJS, plus React / Next.js on the frontend
 - AWS · Kubernetes · Docker · Redis · Kafka · MongoDB · PostgreSQL
 
-#### Currently
-🌍 Open to remote roles (Senior IC) and contract work · any timezone · English B2
-🇬🇪 Available for contract work through a Georgia-based legal entity
-📫 misha.sokovets@gmail.com · [LinkedIn](https://www.linkedin.com/in/misha-s-902a51177/)
-
 #### Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
